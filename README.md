@@ -1,4 +1,3 @@
-![MasterHead](https://tandsgo.com/wp-content/uploads/2020/02/Abstract-blue-and-orange-pattern.jpg)
 
 <h1 align="center">Hi 👋, I'm Jay Prakash</h1>
 <h3 align="center">A fullstack developer and data engineering enthusiast</h3>
