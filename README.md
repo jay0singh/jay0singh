@@ -59,9 +59,3 @@ I build scalable backend systems and production-ready web apps. Currently focuse
 Google once used **goats to cut grass** instead of machines 🐐
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay0singh" />
-</p>
