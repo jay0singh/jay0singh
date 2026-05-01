@@ -63,6 +63,5 @@ Google once used **goats to cut grass** instead of machines 🐐
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://stats.vercel.app/api?username=jay0singh&show_icons=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay0singh" />
 </p>
