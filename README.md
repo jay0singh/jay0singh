@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | Backend-Focused**
 
-I build scalable backend systems and production-ready web apps. Currently focused on **DSA and system design** to break into high-growth product companies.
+I build scalable backend systems and production-ready web apps. Currently focused on **DSA and system design**.
 
 ---
 
@@ -42,8 +42,7 @@ I build scalable backend systems and production-ready web apps. Currently focuse
 ## 📊 Coding & Growth
 
 - 💻 Consistent DSA practice (Sliding Window, Graphs, DP)  
-- 🧩 Strong focus on **problem-solving + pattern recognition**  
-- 🎯 Targeting **product-based companies (₹10–15 LPA range)**  
+- 🧩 Strong focus on **problem-solving + pattern recognition**
 
 ---
 
@@ -67,10 +66,3 @@ Google once used **goats to cut grass** instead of machines 🐐
   <img src="https://github-readme-stats.vercel.app/api?username=jay0singh&show_icons=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay0singh" />
 </p>
-
----
-
-## 🧭 Current Focus
-
-```text
-DSA + Backend Engineering + System Design = Next Big Switch 🚀
