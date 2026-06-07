@@ -41,7 +41,7 @@ I build scalable backend systems and production-ready web apps. Currently focuse
 
 ## 📊 Coding & Growth
 
-- 💻 Consistent DSA practice (Sliding Window, Graphs, DP)  
+- 💻 Consistent DSA practice  
 - 🧩 Strong focus on **problem-solving + pattern recognition**
 
 ---
@@ -50,8 +50,6 @@ I build scalable backend systems and production-ready web apps. Currently focuse
 
 - 📧 Email: **jaysingha261@gmail.com**  
 - 💼 LinkedIn: https://linkedin.com/in/jay-prakash-016148214  
-- 🐦 Twitter: https://twitter.com/jay0singha  
-- 📸 Instagram: https://instagram.com/jay._.singha  
 
 ---
 
